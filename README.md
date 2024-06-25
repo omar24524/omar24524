@@ -22,7 +22,7 @@ Building Websites using ReactJS ,NoseJS and MongoDB.
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-    <img src="https://icon-library.com/images/power-bi-icon/power-bi-icon-7.jpg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
+    <img src="https://th.bing.com/th/id/OIP.Oxo-u9GMK3zbEM5h-FiVnQHaEK?w=303&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
 </div>
 
 
