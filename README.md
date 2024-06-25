@@ -11,4 +11,4 @@ Building Websites using ReactJS ,NoseJS and MongoDB.
 
 
 
-(https://github-readme-stats.vercel.app/api?username=omar24524&theme=dark&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=omar24524&theme=dark&show_icons=true
